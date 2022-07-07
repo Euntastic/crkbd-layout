@@ -9,9 +9,12 @@ This repo is currently a big work in progress.
 This keyboard layout uses the [Workman Keyboard Layout](https://workmanlayout.org) as it's base.
 
 ** Notes **
+
 The Thumb Clusters remain constant through all layer toggling/switching.
+
 Left Side: `(Capslock), (Tab(Navigation Layer)), (Space(Numbers Layer))`
-Right Side: `(Backspace(Symbols Layer)), (Enter(Function Keys Layer)), (Gui(Led Control))
+
+Right Side: `(Backspace(Symbols Layer)), (Enter(Function Keys Layer)), (Gui(Led Control))`
 
 For the Workman and Numbers layers, the homerow contain modifers (gui, alt, ctrl, shift) when held down. 
 
